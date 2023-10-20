@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Success get sort",
+  "data": [
+    {
+      "id": "price",
+      "name": "Sort by Price"
+    },
+    {
+      "id": "size",
+      "name": "Sort by Size"
+    },
+    {
+      "id": "name",
+      "name": "Sort by Name"
+    }
+  ]
+}

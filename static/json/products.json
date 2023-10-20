@@ -1,0 +1,139 @@
+{
+  "success": true,
+  "message": "Success get products",
+  "data": [
+    {
+      "id": 0,
+      "category": "sneakers",
+      "size": 38,
+      "price": 790,
+      "name": "Balenciaga",
+      "slug": "High Speed Sneakers",
+      "image": "product1.jpg",
+      "thumb1": "thumb-product1-1.jpg",
+      "thumb2": "thumb-product1-2.jpg"
+
+    },
+    {
+      "id": 1,
+      "category": "shoes",
+      "size": 40,
+      "price": 965,
+      "name": "Tom Ford",
+      "slug": "Yago",
+      "image": "product2.jpg",
+      "thumb1": "thumb-product2-1.jpg",
+      "thumb2": "thumb-product2-2.jpg"
+    },
+    {
+      "id": 2,
+      "category": "flip",
+      "size": 41,
+      "price": 295,
+      "name": "Neil Barrett",
+      "slug": "Geometric Styled 003",
+      "image": "product3.jpg",
+      "thumb1": "thumb-product3-1.jpg",
+      "thumb2": "thumb-product3-2.jpg"
+    },
+    {
+      "id": 3,
+      "category": "accessories",
+      "size": 38,
+      "price": 110,
+      "name": "Emporio Armani",
+      "slug": "Massive Geometric",
+      "image": "product4.jpg",
+      "thumb1": "thumb-product4-1.jpg",
+      "thumb2": "thumb-product4-2.jpg"
+    },
+    {
+      "id": 4,
+      "category": "accessories",
+      "size": 34,
+      "price": 121,
+      "name": "Adidas",
+      "slug": "Neomorphic TRZ",
+      "image": "product5.jpg",
+      "thumb1": "thumb-product5-1.jpg",
+      "thumb2": "thumb-product5-2.jpg"
+    },
+    {
+      "id": 5,
+      "category": "flip",
+      "size": 49,
+      "price": 105,
+      "name": "Puma",
+      "slug": "Extensive Powerades",
+      "image": "product6.jpg",
+      "thumb1": "thumb-product6-1.jpg",
+      "thumb2": "thumb-product6-2.jpg"
+    },
+    {
+      "id": 6,
+      "category": "sneakers",
+      "size": 44,
+      "price": 109,
+      "name": "Sneakers Casual",
+      "slug": "Sneakers",
+      "image": "product7.jpg",
+      "thumb1": "thumb-product7-1.jpg",
+      "thumb2": "thumb-product7-2.jpg"
+    },
+    {
+      "id": 7,
+      "category": "shoes",
+      "size": 42,
+      "price": 117,
+      "name": "Shoes Casual",
+      "slug": "Adidas Shoes",
+      "image": "product8.jpg",
+      "thumb1": "thumb-product8-1.jpg",
+      "thumb2": "thumb-product8-2.jpg"
+    },
+    {
+      "id": 8,
+      "category": "accessories",
+      "size": 41,
+      "price": 109,
+      "name": "Sticker",
+      "slug": "Neomorphic Sticker",
+      "image": "product9.jpg",
+      "thumb1": "thumb-product9-1.jpg",
+      "thumb2": "thumb-product9-2.jpg"
+    },
+    {
+      "id": 9,
+      "category": "flip",
+      "size": 39,
+      "price": 123,
+      "name": "Sticker",
+      "slug": "Neomorphic Sticker",
+      "image": "product10.jpg",
+      "thumb1": "thumb-product10-1.jpg",
+      "thumb2": "thumb-product10-2.jpg"
+    },
+    {
+      "id": 10,
+      "category": "sneakers",
+      "size": 38,
+      "price": 111,
+      "name": "Sneakers Casual",
+      "slug": "Sneakers",
+      "image": "product11.jpg",
+      "thumb1": "thumb-product11-1.jpg",
+      "thumb2": "thumb-product11-2.jpg"
+    },
+    {
+      "id": 11,
+      "category": "shoes",
+      "size": 38,
+      "price": 120,
+      "name": "Shoes Casual",
+      "slug": "Shoes",
+      "image": "product12.jpg",
+      "thumb1": "thumb-product12-1.jpg",
+      "thumb2": "thumb-product12-2.jpg"
+    }
+  ]
+}

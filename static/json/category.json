@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Success get categories",
+  "data": [
+    {
+      "id": "flip",
+      "name": "Flip Flops"
+    },
+    {
+      "id": "sneakers",
+      "name": "Sneakers"
+    },
+    {
+      "id": "shoes",
+      "name": "Lace-Up Shoes"
+    },
+    {
+      "id": "accessories",
+      "name": "Shoe Accessories"
+    }
+  ]
+}
