@@ -1,7 +1,7 @@
 <template>
   <section>
     <Header-Menu />
-    <div class="main-container flex flex-col gap-20 my-5">
+    <div class="main-container flex flex-col gap-20 md:my-5">
       <nuxt />
     </div>
   </section>
